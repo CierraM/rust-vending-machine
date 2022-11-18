@@ -11,7 +11,6 @@ Start the program with `cargo run`
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 -   [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 
